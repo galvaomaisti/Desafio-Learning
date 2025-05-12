@@ -42,10 +42,10 @@ Apresente os resultados do seu projeto:
 - Métricas relevantes (se aplicável)
 
 ## 📷 Capturas de Tela
-![Descrição da imagem](./images/nome-da-imagem.png)
+![Image](https://github.com/user-attachments/assets/eadeceb0-cbd7-4934-82bc-4673614ec107)
 *Legenda explicando o que está sendo mostrado*
 
-![Descrição da imagem](./images/nome-da-imagem-2.png)
+![Image](https://github.com/user-attachments/assets/ce9c8005-b194-4421-a85b-03f6c507ce8e)
 *Legenda explicando o que está sendo mostrado*
 
 ## 🧪 Como Testar
